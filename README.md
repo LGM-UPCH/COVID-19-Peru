@@ -4,6 +4,9 @@ A repository of genomes from SARS-CoV-2 sequenced by Peruvian institutions
 ## Data from GISAID / Datos disponible en GISAID
 https://www.gisaid.org/
 
+## NextStrain
+https://nextstrain.org/community/LGM-UPCH/COVID-19-Peru
+
 ## Repository mantained by: 
 Laboratorio de Genómica Microbiana / Microbial Genomics Lab
 Universidad Peruana Cayetano Heredia
